@@ -1,4 +1,4 @@
-<img id="imag" width="1000" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM0dTlyOHN6bzk1bzA3N3RjcWVuMngzcmd3ZjF0cmR3d2FsOHh5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" alt="">
+<img id="imag" width="1000" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd4aWlwdjlqaW9zc2N6NGF0b2g5ajBlc2IyODB1aGN0NG9ldm83NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jQqccWIOQzjD7q/giphy.webp" alt="">
 
 <h1 align="center">Hi 👋, I'm Aastha Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
