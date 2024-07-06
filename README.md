@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aastha Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img width="400" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgwOWJsb3I3ZzE1YTJpdjFjazNieXZneWQ4dXNvNHNud29vcmFseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="coding">
-
+<img width="400" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZobHlpZjAyaGc3dXB2a3B2YTBkbTVoOW05ZjZmZDFyNm5ycHM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mP3bEugFsv01q/giphy.webp" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asthaavermaa&label=Profile%20views&color=0e75b6&style=flat" alt="asthaavermaa" /> </p>
 
 - 🔭 I’m currently working on **React Project**
